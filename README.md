@@ -5,4 +5,8 @@ All it does is say "`braaaaains` #zombie", with random numbers of 'a' characters
 
 ## Dependencies
 
-This code depends on [ttytter](http://www.floodgap.com/software/ttytter/), available from the source [here](http://www.floodgap.com/software/ttytter/). 
+This code depends on [ttytter](http://www.floodgap.com/software/ttytter/), available from the source [here](http://www.floodgap.com/software/ttytter/). However, that's been superseded by [oysttyer](https://github.com/oysttyer/oysttyer).
+
+## Bugs
+
+Needs updating to replace `ttytter` with `oysttyer` for future compatibility. 
